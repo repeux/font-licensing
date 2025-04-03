@@ -1,5 +1,23 @@
-WIP
+Font License Agreement
 
-Contact: repeux@gmail.com
+This font license agreement is a legal agreement between you ("User") and the owner of the font ("Licensor"). By downloading, installing, or using this font ("Font"), you agree to the terms outlined below.
+
+1. Permitted Used
+- The Font is free for personal use
+- The Font may be used for commercial projects only if the User has obtained a valid commercial license
+
+2. Commercial Licensing
+- Proof of purchase from authorized merchants listed on repeux.github.io serves as the official commercial license
+- No other website or vendor is authorized to sell valid licenses
+
+3. Restrictions
+- Redistribution, reselling, or sharing of the Font in any form is strictly prohibited
+- Modifying the Font and distributing it as a derivative work is not allowed
+- Embedding the Font in software, games, or apps without a commercial license is forbidden
+
+4. Disclaimer
+The Font is provided "as is" without any warranties. The Licensor is not liable for any damages arising from the use of this Font.
+
+For further questions or inquiries, please contact repeux@gmail.com
 
 2025 © repeux, All Rights Reserved
