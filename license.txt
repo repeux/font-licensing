@@ -7,7 +7,8 @@ This font license agreement is a legal agreement between you ("User") and the ow
 - The Font may be used for commercial projects only if the User has obtained a valid commercial license
 
 2. Commercial Licensing
-- Proof of purchase from authorized merchants listed on repeux.github.io serves as the official commercial license
+- Proof of purchase from authorized merchants listed on repeux.github.io serves as a valid commercial license
+- Alternatively, a PayPal payment of an equivalent amount to repeux@gmail.com, including a reference to the desired Font, also serves as a valid commercial license
 - No other website or vendor is authorized to sell valid licenses
 
 3. Restrictions
